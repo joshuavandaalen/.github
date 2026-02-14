@@ -1,0 +1,70 @@
+{
+  "workbench.colorTheme": "Experimental Dark",
+  "editor.minimap.enabled": false,
+  "editor.formatOnSave": true,
+  "editor.rulers": [
+    {
+      "color": "#8f0000",
+      "column": 59
+    },
+    {
+      "color": "#8f0000",
+      "column": 89
+    },
+    {
+      "color": "#8f0000",
+      "column": 119
+    }
+  ],
+  "files.associations": {
+    ".env.production": "dotenv",
+    ".env*": "dotenv",
+    ".fantomasignore": "ignore",
+    "*.chatmode.md": "markdown",
+    "*.clixml": "xml",
+    "*.instructions.md": "markdown",
+    "*.json": "jsonc",
+    "*.jsonc": "jsonc",
+    "*.jsonl": "json",
+    "*.md": "markdown",
+    "*.mermaid": "mermaid.sequenceDiagram",
+    "*.prompt.md": "markdown",
+    "*.ps1": "powershell",
+    "*.psm1": "powershell",
+    "*.py": "python",
+    "*.yml": "yaml",
+    "MLTable": "yaml",
+    "*.agent.md": "chatagent"
+  },
+  "files.exclude": {
+    "**/.git": false,
+    "**/.idea": true,
+    "**/.vs": true,
+    "**/bin": true,
+    "**/obj": true,
+    "**/TestResults": false
+  },
+  "[powershell]": {
+    "files.encoding": "utf8bom",
+    "files.autoGuessEncoding": true
+  },
+  "powershell.codeFormatting.preset": "OTBS",
+  "powershell.codeFormatting.useConstantStrings": true,
+  "powershell.codeFormatting.trimWhitespaceAroundPipe": true,
+  "powershell.codeFormatting.useCorrectCasing": true,
+  "powershell.codeFormatting.whitespaceBeforeOpenParen": true,
+  "powershell.codeFormatting.whitespaceBetweenParameters": true,
+  "powershell.codeFormatting.addWhitespaceAroundPipe": true,
+  "powershell.codeFormatting.alignPropertyValuePairs": true,
+  "powershell.codeFormatting.autoCorrectAliases": true,
+  "powershell.codeFormatting.avoidSemicolonsAsLineTerminators": true,
+  "powershell.codeFormatting.ignoreOneLineBlock": true,
+  "powershell.codeFormatting.whitespaceBeforeOpenBrace": true,
+  "powershell.codeFormatting.whitespaceAroundOperator": true,
+  "powershell.codeFormatting.whitespaceAfterSeparator": true,
+  "powershell.codeFormatting.whitespaceInsideBrace": true,
+  "telemetry.editStats.enabled": false,
+  "telemetry.feedback.enabled": false,
+  "telemetry.telemetryLevel": "off",
+  "dotnetAcquisitionExtension.enableTelemetry": false,
+}
