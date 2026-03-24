@@ -34,7 +34,7 @@
     "*.py": "python",
     "*.yml": "yaml",
     "MLTable": "yaml",
-    "*.agent.md": "chatagent"
+    "*.agent.md": "markdown"
   },
   "files.exclude": {
     "**/.git": false,

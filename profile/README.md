@@ -3,14 +3,14 @@
 This page contains terminal commands that maintain the
  developers tools installed on their device.
 
-As well as a consise map of feature sets for
+As well as a concise map of feature sets for
 **GitHub Copilot** and **OpenAI Codex**.
 
 > [!WARNING]
 > This repo contains GitHub Actions and various other
 > features that automate the content in this file.
 >
-> To see more about using AI Agents and their capibilities,
+> To see more about using AI Agents and their capabilities,
 > review this repos `./github` directory.
 
 ---
@@ -92,7 +92,7 @@ Code snippets in this section are intended to be used as a
 ## OpenAI Codex CLI
 
 > [!IMPORTANT]
-> OpenAI Codex documentation updates regulary.
+> OpenAI Codex documentation updates regularly.
 >
 > In this section
 
@@ -105,17 +105,18 @@ Code snippets in this section are intended to be used as a
 GitHub Copilot has different slash commands depending on the
  work being performed.
 
-Simarilly, Codex's available commands vary based on your
+Similarly, Codex's available commands vary based on your
  environment and access.
 
 > [!IMPORTANT]
 >
->
 > This 'Slash Commands' section showcases using
-> **Agent Skills** [^2][^3] and GitHub Actions
+> **Agent Skills**[^2][^3] and GitHub Actions
 > with AI Assistants and Coding Agents.
-> [^2]:[GitHub Agent Skills](https://docs.github.com/en/copilot/concepts/agents/about-agent-skills)
-> [^3]:[Codex Agent Skills](https://developers.openai.com/codex/skills)
+>
+> [^2]: [GitHub Agent Skills](https://docs.github.com/en/copilot/concepts/agents/about-agent-skills)
+>
+> [^3]: [Codex Agent Skills](https://platform.openai.com/docs/)
 
 - **GitHub Issues**: [About Slash Commands](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/about-slash-commands)
 - **GitHub Copilot CLI**: [Slash commands in interactive mode](https://docs.github.com/en/copilot/reference/cli-command-reference#slash-commands-in-interactive-mode)
@@ -124,9 +125,9 @@ Simarilly, Codex's available commands vary based on your
 - **GitHub Copilot Chat via Web Browser** :
  [Slash commands in Web UI](https://docs.github.com/en/copilot/reference/cheat-sheet?tool=webui#slash-commands)
 
-- **OpenAI Codex Desktop App**: [Codex App Slash commands](https://developers.openai.com/codex/app/commands#slash-commands)
-- **OpenAI Codex CLI**: [Slash commands in Codex CLI](https://developers.openai.com/codex/cli/slash-commands)
-- **OpenAI Codex via VS Code**: [Codex IDE extension slash commands](https://developers.openai.com/codex/ide/slash-commands)
+- **OpenAI Codex Desktop App**: [Codex App Slash commands](https://platform.openai.com/docs/)
+- **OpenAI Codex CLI**: [Slash commands in Codex CLI](https://platform.openai.com/docs/)
+- **OpenAI Codex via VS Code**: [Codex IDE extension slash commands](https://platform.openai.com/docs/)
 
 ```pwsh
 # TODO: GitHub Action to invoke GitHub Copilot CLI to update the
@@ -139,4 +140,4 @@ Simarilly, Codex's available commands vary based on your
 
 References
 [^gh_cli_install]:[Installing GitHub Copilot CLI](https://docs.github.com/en/copilot/how-tos/copilot-cli/install-copilot-cli)
-[^codex_cli_install]:[Installing OpenAI Codex CLI](https://docs.github.com/en/copilot/how-tos/copilot-cli/install-copilot-cli)
+[^codex_cli_install]:[Installing OpenAI Codex CLI](https://platform.openai.com/docs/)
