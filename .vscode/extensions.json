@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "bierner.github-markdown-preview",
+    "davidanson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "docsmsft.docs-yaml",
+    "EditorConfig.EditorConfig",
+    "ms-vscode.powershell",
+    "vscode.theme-2026",
+    "yzhang.markdown-all-in-one",
+    "anthropic.claude-code",
+    "openai.chatgpt",
+    "github.copilot-chat"
+  ]
+}

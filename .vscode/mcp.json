@@ -1,0 +1,116 @@
+{
+  "servers": {
+    "microsoftdocs/mcp": {
+      "repo": "https://github.com/microsoftdocs/mcp",
+      "type": "http",
+      "url": "https://learn.microsoft.com/api/mcp"
+    },
+    "Playwright MCP": {
+      "repo": "https://github.com/microsoft/playwright-mcp",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@playwright/mcp@latest"
+      ],
+      "type": "stdio"
+    },
+    // "Azure DevOps MCP": {
+    //   "repo": "https://github.com/microsoft/azure-devops-mcp",
+    //   "command": "npx",
+    //   "args": [
+    //     "-y",
+    //     "@microsoft/mcp-azure-devops@latest"
+    //   ],
+    //   "type": "stdio"
+    // },
+    // "MarkItDown MCP": {
+    //   "repo": "https://github.com/microsoft/markitdown",
+    //   "command": "npx",
+    //   "args": [
+    //     "-y",
+    //     "@microsoft/mcp-markitdown@latest"
+    //   ],
+    //   "type": "stdio"
+    // },
+    // "MarkItDown MCP (docker)": {
+    //   "command": "docker",
+    //   "args": [
+    //     "run",
+    //     "-i",
+    //     "--rm",
+    //     "-v",
+    //     "/temp/markitdown:/temp/markitdown",
+    //     "mcp/markitdown"
+    //   ],
+    //   "type": "stdio"
+    // },
+    // "Dev Box MCP": {
+    //   "repo": "https://github.com/microsoft/mcp",
+    //   "command": "npx",
+    //   "args": [
+    //     "-y",
+    //     "@microsoft/mcp-devbox@latest"
+    //   ],
+    //   "type": "stdio"
+    // },
+    "Azure Foundry MCP Server": {
+      "repo": "https://github.com/azure-ai-foundry/mcp-foundry",
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "--prerelease=allow",
+        "--from",
+        "git+https://github.com/azure-ai-foundry/mcp-foundry.git",
+        "run-azure-ai-foundry-mcp"
+      ]
+    },
+    "M365AgentsToolkit Server": {
+      "repo": "https://github.com/OfficeDev/microsoft-365-agents-toolkit",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@microsoft/m365agentstoolkit-mcp@latest",
+        "server",
+        "start"
+      ],
+      "type": "stdio"
+    },
+    // "oraios/serena": {
+    //   "type": "stdio",
+    //   "command": "uvx",
+    //   "args": [
+    //     "--from",
+    //     "git+https://github.com/oraios/serena",
+    //     "serena",
+    //     "start-mcp-server",
+    //     "serena==latest",
+    //     "--context",
+    //     "ide-assistant"
+    // // "--log-level",
+    // // "DEBUG",
+    // // "--context",
+    // // "ide",
+    // // "--mode",
+    // // "onboarding",
+    // // "--language-backend",
+    // // "LSP",
+    // // "--transport",
+    // // "streamable-http",
+    // // "--host",
+    // // " 127.0.0.1",
+    // // "--port",
+    // // "9121",
+    // // "--enable-web-dashboard",
+    // // "true",
+    // // "--open-web-dashboard",
+    // // "true" //,
+    // // " --project",
+    // // "solidJS"
+    // // "--project-from-cwd",
+    //   ],
+    //   "gallery": "https://api.mcp.github.com",
+    //   "version": "1.0.0"
+    // }
+  },
+  "inputs": []
+}
