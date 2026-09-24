@@ -141,7 +141,7 @@
 <ul>
 <li><b>.NET Core microservices on AKS</b> with protobuf/gRPC contracts to private namespaces, behind Azure API Management.</li>
 <li>Contributed to a <b>Backend-for-Frontend</b> shared across web and the new mobile apps — one aggregation contract over many backend domains, including legacy datacentre data.</li>
-<li>Led migration of end-of-life Sitecore XP 9.7 APIs into modern microservices; Angular + Redux front ends with Azure Redis cache.</li>
+<li>Led migration of end-of-life Sitecore XP 9.x APIs into modern microservices; Angular + Redux front ends with Azure Redis cache.</li>
 <li>Non-production scheduling — scaling Sitecore dev environments down outside hours — cut cloud spend by <b>~AU$15,000 per month</b>. Built an internal monitoring portal for daily health checks.</li>
 </ul>
 </div>
