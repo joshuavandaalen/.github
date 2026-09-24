@@ -35,7 +35,7 @@
 <details class="entry" id="AI-01" data-status="decided" open>
 <summary>
 <span class="sum-body">
-<span class="sum-head"><span class="eid mono">AI-01</span><span class="etitle mono">What I build now — agentic systems</span></span>
+<span class="sum-head"><span class="eid mono">AI-01</span> · <span class="etitle mono">What I build now — agentic systems</span></span>
 <span class="esum">The current focus: multi-agent workflows that produce decision records and escalate to a human when a finding invalidates the plan.</span>
 </span>
 <span class="pill decided mono"><span class="dot decided"></span>Focus</span>
@@ -43,23 +43,23 @@
 <div class="panel">
 <p class="ctx">Agentic engineering with the discipline that came before it. Structured multi-phase runs (brief, discourse, execution, review) that end with a defensible recommendation, not an unreviewed dump — and stop mid-run rather than proceed on a stale assumption.</p>
 <div class="opt">
-<div class="opt-head"><span class="opt-label">Structured multi-phase workflows + human escalation</span><span class="v chosen">Chosen</span></div>
+<div class="opt-head"><span class="opt-label">Structured multi-phase workflows + human escalation</span> — <span class="v chosen">Chosen</span></div>
 <p class="opt-detail">Each stage writes a decision record; a finding that invalidates the plan escalates instead of being silently absorbed. This has caught design faults mid-run and re-routed before build.</p>
 </div>
 <div class="opt">
-<div class="opt-head"><span class="opt-label">MCP servers + secure context injection</span><span class="v chosen">Chosen</span></div>
+<div class="opt-head"><span class="opt-label">MCP servers + secure context injection</span> — <span class="v chosen">Chosen</span></div>
 <p class="opt-detail">Built a Model Context Protocol server for secure prompt and context management — bringing model capability inside secured environments with token budgeting and context-window limits respected.</p>
 </div>
 <div class="opt">
-<div class="opt-head"><span class="opt-label">Multi-provider gateways &amp; local open-weight serving</span><span class="v conditional">Experimenting</span></div>
+<div class="opt-head"><span class="opt-label">Multi-provider gateways &amp; local open-weight serving</span> — <span class="v conditional">Experimenting</span></div>
 <p class="opt-detail">Evaluating self-hosted routing across providers with per-request cost and token tracking, and local serving via vLLM and llama.cpp. Capability under study, not a production claim.</p>
 </div>
 <div class="opt">
-<div class="opt-head"><span class="opt-label">Autopilot agents with no review gate</span><span class="v ruled-out">Ruled out</span></div>
+<div class="opt-head"><span class="opt-label">Autopilot agents with no review gate</span> — <span class="v ruled-out">Ruled out</span></div>
 <p class="opt-detail">An agent run that ends in an unreviewed output is a liability, not a feature. The review phase and explicit success criteria are the point.</p>
 </div>
 <div class="tags">
-<span class="tag mono">multi-agent orchestration</span><span class="tag mono">tool / function calling</span><span class="tag mono">evaluation harnesses</span><span class="tag mono">RAG</span><span class="tag mono">token budgeting</span><span class="tag mono">IAM for AI</span>
+<span class="tag mono">multi-agent orchestration</span> · <span class="tag mono">tool / function calling</span> · <span class="tag mono">evaluation harnesses</span> · <span class="tag mono">RAG</span> · <span class="tag mono">token budgeting</span> · <span class="tag mono">IAM for AI</span>
 </div>
 </div>
 </details>
@@ -67,7 +67,7 @@
 <details class="entry" id="ROLE-01" data-status="reference" open>
 <summary>
 <span class="sum-body">
-<span class="sum-head"><span class="eid mono">ROLE-01</span><span class="etitle mono">Solutions Engineer — Agentics Foundation</span></span>
+<span class="sum-head"><span class="eid mono">ROLE-01</span> · <span class="etitle mono">Solutions Engineer — Agentics Foundation</span></span>
 <span class="esum">Jan 2026 – present · remote. Turns emerging agent patterns into things other engineers and non-technical stakeholders can actually use.</span>
 </span>
 <span class="pill reference mono"><span class="dot reference"></span>Record</span>
@@ -87,7 +87,7 @@
 <details class="entry" id="ROLE-02" data-status="reference" open>
 <summary>
 <span class="sum-body">
-<span class="sum-head"><span class="eid mono">ROLE-02</span><span class="etitle mono">Applied AI Engineering — self-directed</span></span>
+<span class="sum-head"><span class="eid mono">ROLE-02</span> · <span class="etitle mono">Applied AI Engineering — self-directed</span></span>
 <span class="esum">Aug 2025 – Nov 2025. The same deep-investment pattern run before against IaC and identity, this time against generative and agentic AI.</span>
 </span>
 <span class="pill reference mono"><span class="dot reference"></span>Record</span>
@@ -107,7 +107,7 @@
 <details class="entry" id="ROLE-03" data-status="reference" open>
 <summary>
 <span class="sum-body">
-<span class="sum-head"><span class="eid mono">ROLE-03</span><span class="etitle mono">Identity &amp; Access Management Lead — UniSuper</span></span>
+<span class="sum-head"><span class="eid mono">ROLE-03</span> · <span class="etitle mono">Identity &amp; Access Management Lead — UniSuper</span></span>
 <span class="esum">Aug 2024 – Jul 2025. Senior IAM lead and principal automation engineer for a superannuation fund.</span>
 </span>
 <span class="pill reference mono"><span class="dot reference"></span>Record</span>
@@ -123,7 +123,7 @@
 </ul>
 </div>
 <div class="tags">
-<span class="tag mono">SailPoint IdentityNow</span><span class="tag mono">CyberArk</span><span class="tag mono">Okta</span><span class="tag mono">Entra ID</span><span class="tag mono">RBAC</span><span class="tag mono">PowerShell</span>
+<span class="tag mono">SailPoint IdentityNow</span> · <span class="tag mono">CyberArk</span> · <span class="tag mono">Okta</span> · <span class="tag mono">Entra ID</span> · <span class="tag mono">RBAC</span> · <span class="tag mono">PowerShell</span>
 </div>
 </div>
 </details>
@@ -131,7 +131,7 @@
 <details class="entry" id="ROLE-04" data-status="reference" open>
 <summary>
 <span class="sum-body">
-<span class="sum-head"><span class="eid mono">ROLE-04</span><span class="etitle mono">Full-Stack Developer — UniSuper</span></span>
+<span class="sum-head"><span class="eid mono">ROLE-04</span> · <span class="etitle mono">Full-Stack Developer — UniSuper</span></span>
 <span class="esum">Nov 2022 – Aug 2024. Integration platform (IPaaS) and the Sitecore-based web estate.</span>
 </span>
 <span class="pill reference mono"><span class="dot reference"></span>Record</span>
@@ -151,7 +151,7 @@
 <details class="entry" id="ROLE-05" data-status="reference" open>
 <summary>
 <span class="sum-body">
-<span class="sum-head"><span class="eid mono">ROLE-05</span><span class="etitle mono">DevOps Engineer — UniSuper</span></span>
+<span class="sum-head"><span class="eid mono">ROLE-05</span> · <span class="etitle mono">DevOps Engineer — UniSuper</span></span>
 <span class="esum">May 2021 – Nov 2022. Brought in as the Azure specialist to fill an Azure gap on a VMware-heavy team and upskill the DevOps engineers.</span>
 </span>
 <span class="pill reference mono"><span class="dot reference"></span>Record</span>
@@ -173,7 +173,7 @@
 <details class="entry" id="ROLE-06" data-status="reference" open>
 <summary>
 <span class="sum-body">
-<span class="sum-head"><span class="eid mono">ROLE-06</span><span class="etitle mono">DevOps Consultant — Tally Group</span></span>
+<span class="sum-head"><span class="eid mono">ROLE-06</span> · <span class="etitle mono">DevOps Consultant — Tally Group</span></span>
 <span class="esum">Feb 2020 – May 2021. Multi-tenant energy-billing SaaS, built through a 10–15 to 100+ person scale-up.</span>
 </span>
 <span class="pill reference mono"><span class="dot reference"></span>Record</span>
@@ -192,7 +192,7 @@
 <details class="entry" id="ROLE-07" data-status="reference" open>
 <summary>
 <span class="sum-body">
-<span class="sum-head"><span class="eid mono">ROLE-07</span><span class="etitle mono">System Administrator — The Thomas Group</span></span>
+<span class="sum-head"><span class="eid mono">ROLE-07</span> · <span class="etitle mono">System Administrator — The Thomas Group</span></span>
 <span class="esum">Feb 2019 – Mar 2020. Shopify, Salesforce, Sage X3 ERP, POS and Microsoft 365, plus Azure integration work.</span>
 </span>
 <span class="pill reference mono"><span class="dot reference"></span>Record</span>
@@ -210,7 +210,7 @@
 <details class="entry" id="ROLE-08" data-status="reference" open>
 <summary>
 <span class="sum-body">
-<span class="sum-head"><span class="eid mono">ROLE-08</span><span class="etitle mono">Support Consultant / SysAdmin — Posmosis</span></span>
+<span class="sum-head"><span class="eid mono">ROLE-08</span> · <span class="etitle mono">Support Consultant / SysAdmin — Posmosis</span></span>
 <span class="esum">Mar 2015 – Mar 2019. Broad IT services — and where the first AI build and the automation habit both started.</span>
 </span>
 <span class="pill reference mono"><span class="dot reference"></span>Record</span>
@@ -230,7 +230,7 @@
 <details class="entry" id="SEC-01" data-status="open" open>
 <summary>
 <span class="sum-body">
-<span class="sum-head"><span class="eid mono">SEC-01</span><span class="etitle mono">Independent security research</span></span>
+<span class="sum-head"><span class="eid mono">SEC-01</span> · <span class="etitle mono">Independent security research</span></span>
 <span class="esum">Ongoing, self-directed. Public information only, strict privacy-law adherence, responsible disclosure. To raise the bar, never to exploit.</span>
 </span>
 <span class="pill open mono"><span class="dot open"></span>Open</span>
@@ -250,7 +250,7 @@
 <details class="entry" id="COM-01" data-status="reference" open>
 <summary>
 <span class="sum-body">
-<span class="sum-head"><span class="eid mono">COM-01</span><span class="etitle mono">Community, teaching &amp; open source</span></span>
+<span class="sum-head"><span class="eid mono">COM-01</span> · <span class="etitle mono">Community, teaching &amp; open source</span></span>
 <span class="esum">Teaching adjacent audiences deliberately, and building the artefact where a claim alone would be doubted.</span>
 </span>
 <span class="pill reference mono"><span class="dot reference"></span>Record</span>
@@ -270,7 +270,7 @@
 <details class="entry" id="SKILL-01" data-status="reference" open>
 <summary>
 <span class="sum-body">
-<span class="sum-head"><span class="eid mono">SKILL-01</span><span class="etitle mono">Skills &amp; tools</span></span>
+<span class="sum-head"><span class="eid mono">SKILL-01</span> · <span class="etitle mono">Skills &amp; tools</span></span>
 <span class="esum">Grouped by where the depth actually is. Azure and PowerShell are the load-bearing ones.</span>
 </span>
 <span class="pill reference mono"><span class="dot reference"></span>Record</span>
