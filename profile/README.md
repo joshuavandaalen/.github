@@ -1,5 +1,4 @@
 <!-- markdownlint-disable MD013 MD033 MD041 -->
-<a href="#entries" class="skip">Skip to entries</a>
 <div class="wrap">
 <header>
 <p class="prompt mono">joshua@homelab<span class="p">:~$</span> cat joshua-van-daalen.md</p>
@@ -35,7 +34,6 @@
 <!-- AI-01 -->
 <details class="entry" id="AI-01" data-status="decided" open>
 <summary>
-<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg>
 <span class="sum-body">
 <span class="sum-head"><span class="eid mono">AI-01</span><span class="etitle mono">What I build now — agentic systems</span></span>
 <span class="esum">The current focus: multi-agent workflows that produce decision records and escalate to a human when a finding invalidates the plan.</span>
@@ -68,7 +66,6 @@
 <!-- ROLE-01 -->
 <details class="entry" id="ROLE-01" data-status="reference" open>
 <summary>
-<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg>
 <span class="sum-body">
 <span class="sum-head"><span class="eid mono">ROLE-01</span><span class="etitle mono">Solutions Engineer — Agentics Foundation</span></span>
 <span class="esum">Jan 2026 – present · remote. Turns emerging agent patterns into things other engineers and non-technical stakeholders can actually use.</span>
@@ -89,7 +86,6 @@
 <!-- ROLE-02 -->
 <details class="entry" id="ROLE-02" data-status="reference" open>
 <summary>
-<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg>
 <span class="sum-body">
 <span class="sum-head"><span class="eid mono">ROLE-02</span><span class="etitle mono">Applied AI Engineering — self-directed</span></span>
 <span class="esum">Aug 2025 – Nov 2025. The same deep-investment pattern run before against IaC and identity, this time against generative and agentic AI.</span>
@@ -110,7 +106,6 @@
 <!-- ROLE-03 -->
 <details class="entry" id="ROLE-03" data-status="reference" open>
 <summary>
-<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg>
 <span class="sum-body">
 <span class="sum-head"><span class="eid mono">ROLE-03</span><span class="etitle mono">Identity &amp; Access Management Lead — UniSuper</span></span>
 <span class="esum">Aug 2024 – Jul 2025. Senior IAM lead and principal automation engineer for a superannuation fund.</span>
@@ -135,7 +130,6 @@
 <!-- ROLE-04 -->
 <details class="entry" id="ROLE-04" data-status="reference" open>
 <summary>
-<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg>
 <span class="sum-body">
 <span class="sum-head"><span class="eid mono">ROLE-04</span><span class="etitle mono">Full-Stack Developer — UniSuper</span></span>
 <span class="esum">Nov 2022 – Aug 2024. Integration platform (IPaaS) and the Sitecore-based web estate.</span>
@@ -156,7 +150,6 @@
 <!-- ROLE-05 -->
 <details class="entry" id="ROLE-05" data-status="reference" open>
 <summary>
-<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg>
 <span class="sum-body">
 <span class="sum-head"><span class="eid mono">ROLE-05</span><span class="etitle mono">DevOps Engineer — UniSuper</span></span>
 <span class="esum">May 2021 – Nov 2022. Brought in as the Azure specialist to fill an Azure gap on a VMware-heavy team and upskill the DevOps engineers.</span>
@@ -179,7 +172,6 @@
 <!-- ROLE-06 -->
 <details class="entry" id="ROLE-06" data-status="reference" open>
 <summary>
-<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg>
 <span class="sum-body">
 <span class="sum-head"><span class="eid mono">ROLE-06</span><span class="etitle mono">DevOps Consultant — Tally Group</span></span>
 <span class="esum">Feb 2020 – May 2021. Multi-tenant energy-billing SaaS, built through a 10–15 to 100+ person scale-up.</span>
@@ -199,7 +191,6 @@
 <!-- ROLE-07 -->
 <details class="entry" id="ROLE-07" data-status="reference" open>
 <summary>
-<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg>
 <span class="sum-body">
 <span class="sum-head"><span class="eid mono">ROLE-07</span><span class="etitle mono">System Administrator — The Thomas Group</span></span>
 <span class="esum">Feb 2019 – Mar 2020. Shopify, Salesforce, Sage X3 ERP, POS and Microsoft 365, plus Azure integration work.</span>
@@ -218,7 +209,6 @@
 <!-- ROLE-08 -->
 <details class="entry" id="ROLE-08" data-status="reference" open>
 <summary>
-<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg>
 <span class="sum-body">
 <span class="sum-head"><span class="eid mono">ROLE-08</span><span class="etitle mono">Support Consultant / SysAdmin — Posmosis</span></span>
 <span class="esum">Mar 2015 – Mar 2019. Broad IT services — and where the first AI build and the automation habit both started.</span>
@@ -239,7 +229,6 @@
 <!-- SEC-01 -->
 <details class="entry" id="SEC-01" data-status="open" open>
 <summary>
-<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg>
 <span class="sum-body">
 <span class="sum-head"><span class="eid mono">SEC-01</span><span class="etitle mono">Independent security research</span></span>
 <span class="esum">Ongoing, self-directed. Public information only, strict privacy-law adherence, responsible disclosure. To raise the bar, never to exploit.</span>
@@ -260,7 +249,6 @@
 <!-- COM-01 -->
 <details class="entry" id="COM-01" data-status="reference" open>
 <summary>
-<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg>
 <span class="sum-body">
 <span class="sum-head"><span class="eid mono">COM-01</span><span class="etitle mono">Community, teaching &amp; open source</span></span>
 <span class="esum">Teaching adjacent audiences deliberately, and building the artefact where a claim alone would be doubted.</span>
@@ -281,7 +269,6 @@
 <!-- SKILL-01 -->
 <details class="entry" id="SKILL-01" data-status="reference" open>
 <summary>
-<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg>
 <span class="sum-body">
 <span class="sum-head"><span class="eid mono">SKILL-01</span><span class="etitle mono">Skills &amp; tools</span></span>
 <span class="esum">Grouped by where the depth actually is. Azure and PowerShell are the load-bearing ones.</span>
